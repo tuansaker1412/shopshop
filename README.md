@@ -4,3 +4,5 @@
 
 ### Tài khoản quản trị: 
 
+####username: admin
+###password: admin
